@@ -1,6 +1,5 @@
 # Careerfy - Job board
-Live Demo is available please check it out [Careerfy- Job Board Template] https://koy-u.github.io 
-To download the code please visit this repository koy-u.github.io 
+Live Demo is available please check it out [Careerfy- Job Board Template]
 
 I have read that one way of learning web development is to recreate existing templates. This project is recreation on existing template of wordpress theme "careerfy-job-board-wordpress-theme" which is purely build from scratch using HTML, CSS, Bootstarp and JavaScript.
 
